@@ -1,0 +1,15 @@
+C:\Users\ariel.iborra\Source\Repos\arielpellegrino\bootcampAvanadeDotNET\obj\Debug\net8.0\bootcampAvanadeDotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel.iborra\Source\Repos\arielpellegrino\bootcampAvanadeDotNET\obj\Debug\net8.0\bootcampAvanadeDotNET.AssemblyInfoInputs.cache
+C:\Users\ariel.iborra\Source\Repos\arielpellegrino\bootcampAvanadeDotNET\obj\Debug\net8.0\bootcampAvanadeDotNET.AssemblyInfo.cs
+C:\Users\ariel.iborra\Source\Repos\arielpellegrino\bootcampAvanadeDotNET\obj\Debug\net8.0\bootcampAvanadeDotNET.csproj.CoreCompileInputs.cache
+C:\Users\ariel.iborra\Source\Repos\arielpellegrino\bootcampAvanadeDotNET\obj\Debug\net8.0\bootcampAvanadeDotNET.sourcelink.json
+C:\Users\ariel.iborra\source\repos\arielpellegrino\bootcampAvanadeDotNET\bin\Debug\net8.0\bootcampAvanadeDotNET.exe
+C:\Users\ariel.iborra\source\repos\arielpellegrino\bootcampAvanadeDotNET\bin\Debug\net8.0\bootcampAvanadeDotNET.deps.json
+C:\Users\ariel.iborra\source\repos\arielpellegrino\bootcampAvanadeDotNET\bin\Debug\net8.0\bootcampAvanadeDotNET.runtimeconfig.json
+C:\Users\ariel.iborra\source\repos\arielpellegrino\bootcampAvanadeDotNET\bin\Debug\net8.0\bootcampAvanadeDotNET.dll
+C:\Users\ariel.iborra\source\repos\arielpellegrino\bootcampAvanadeDotNET\bin\Debug\net8.0\bootcampAvanadeDotNET.pdb
+C:\Users\ariel.iborra\source\repos\arielpellegrino\bootcampAvanadeDotNET\obj\Debug\net8.0\bootcampAvanadeDotNET.dll
+C:\Users\ariel.iborra\source\repos\arielpellegrino\bootcampAvanadeDotNET\obj\Debug\net8.0\refint\bootcampAvanadeDotNET.dll
+C:\Users\ariel.iborra\source\repos\arielpellegrino\bootcampAvanadeDotNET\obj\Debug\net8.0\bootcampAvanadeDotNET.pdb
+C:\Users\ariel.iborra\source\repos\arielpellegrino\bootcampAvanadeDotNET\obj\Debug\net8.0\bootcampAvanadeDotNET.genruntimeconfig.cache
+C:\Users\ariel.iborra\source\repos\arielpellegrino\bootcampAvanadeDotNET\obj\Debug\net8.0\ref\bootcampAvanadeDotNET.dll

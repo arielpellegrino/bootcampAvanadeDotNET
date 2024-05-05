@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\Models"
   ],
-  "SelectedNode": "\\C:\\Users\\ariel.iborra\\Source\\Repos\\arielpellegrino\\bootcampAvanadeDotNET",
+  "SelectedNode": "\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
