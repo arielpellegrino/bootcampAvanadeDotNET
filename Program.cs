@@ -1,12 +1,8 @@
 ﻿using bootcampAvanadeDotNET.Models;
 
-Pessoa p1 = new Pessoa();
-p1.Nome = "Ariel";
-p1.Sobrenome = "Pellegrino";
+Pessoa p1 = new Pessoa(nome: "Ariel", sobrenome: "Pellegrino");
+Pessoa p2 = new Pessoa(nome: "Corlouro", sobrenome: "Pellegrino");
 
-Pessoa p2 = new Pessoa();
-p2.Nome = "Corlourlou";
-p2.Sobrenome = "Pellegrino";
 
 
 Curso cursoDeingles = new Curso();
