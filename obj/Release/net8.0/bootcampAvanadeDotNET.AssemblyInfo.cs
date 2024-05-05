@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bootcampAvanadeDotNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04e9302c2ac6198b5dd3cb63a438cf15281e8782")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+935f880b1ddd24b1ca87c2973210faedd2a833dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("bootcampAvanadeDotNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bootcampAvanadeDotNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
